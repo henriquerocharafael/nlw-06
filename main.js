@@ -103,4 +103,4 @@ window.addEventListener('scroll', () => {
   changeHeaderWhenScroll()
   backToTop()
   activateMenuAtCurrentSection()
-}) 
+})
